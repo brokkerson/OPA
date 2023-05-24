@@ -1,0 +1,20 @@
+C:\Users\Hello\source\repos\ПР9\ПР9\bin\Debug\ПР9.exe.config
+C:\Users\Hello\source\repos\ПР9\ПР9\bin\Debug\ПР9.exe
+C:\Users\Hello\source\repos\ПР9\ПР9\bin\Debug\ПР9.pdb
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.csproj.AssemblyReference.cache
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.Form1.resources
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.Properties.Resources.resources
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.csproj.GenerateResource.cache
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.csproj.CoreCompileInputs.cache
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.exe
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\ПР9.pdb
+C:\Users\Hello\source\repos\ПР9\ПР9\obj\Debug\GraphicsEditor.Form1.resources
+C:\Users\студент\Desktop\Практические\ПР 9\ПР9\obj\Debug\ПР9.csprojAssemblyReference.cache
+C:\Users\студент\Desktop\Практические\ПР 9\ПР9\obj\Debug\GraphicsEditor.Form1.resources
+C:\Users\студент\Desktop\Практические\ПР 9\ПР9\obj\Debug\ПР9.MainForm.resources
+C:\Users\студент\Desktop\Практические\ПР 9\ПР9\obj\Debug\ПР9.Properties.Resources.resources
+C:\Users\студент\Desktop\Практические\ПР 9\ПР9\obj\Debug\ПР9.csproj.GenerateResource.cache
+C:\Users\студент\Desktop\Практические\ПР 9\ПР9\obj\Debug\ПР9.csproj.CoreCompileInputs.cache
+C:\Users\студент\Desktop\Практические\ПР 9\ПР9\obj\Debug\ПР9.exe
+C:\Users\студент\Desktop\Практические\ПР 9\ПР9\obj\Debug\ПР9.pdb
